@@ -1,19 +1,15 @@
 README.txt
 
 Tools Used:
-1. Tailwind CSS: For styling and implementing dark mode.
-2. JavaScript: For adding interactivity, such as the dark mode toggle.
-3. HTML: For structuring the web pages.
-4. CSS: For additional styling and layout adjustments.
+1. Tailwind CSS: For styling.
+2. HTML: For structuring the web pages.
+3. CSS: For additional styling and layout adjustments.
 
 Features Implemented:
-1. Dark Mode Toggle:
-   - A button to switch between light and dark themes using Tailwind's dark mode classes.
-   - The theme preference is saved in localStorage.
-2. Reusable Card Component:
+1. Reusable Card Component:
    - Styled using Tailwind CSS for displaying project entries.
    - Used in the "Projects" page to showcase featured projects.
-3. Responsive Design:
+2. Responsive Design:
    - Ensures the website is accessible and visually appealing on various devices.
 
 Folder Structure:
